@@ -1,4 +1,4 @@
-Getting and Cleaning Data: Course Project
+# H1 Getting and Cleaning Data: Course Project
 
 About the raw data
 
